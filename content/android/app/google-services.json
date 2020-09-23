@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669737294179",
+    "firebase_url": "https://salutem-4def2.firebaseio.com",
+    "project_id": "salutem-4def2",
+    "storage_bucket": "salutem-4def2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669737294179:android:d46c356529ac2552059b56",
+        "android_client_info": {
+          "package_name": "com.kiwi.flutterscanbluetoothexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669737294179-ud0g6bh5q6tleu7tjh1d19aaouql74pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3zXpu0m_prnP51ok2LNHM7ZtHVFeTH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669737294179-ud0g6bh5q6tleu7tjh1d19aaouql74pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
